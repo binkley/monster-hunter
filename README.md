@@ -13,6 +13,7 @@ align="right" width="10%" height="auto"/>
 
 ## Player character
 
+- _[Kolchak](https://www.dndbeyond.com/characters/144923969)_ at level 1
 - _[Kolchak](https://www.dndbeyond.com/characters/144726105)_ at level 5
 
 ### Sidekick
@@ -20,6 +21,10 @@ align="right" width="10%" height="auto"/>
 - _[Bob
   Jones](https://www.dndbeyond.com/monsters/5401884-kolchak-sidekick-bob-jones-level-5)_
   at level 5
+
+### NPCs
+
+- _Lusk the Fence_
 
 ## Use this repository
 
