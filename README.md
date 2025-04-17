@@ -24,12 +24,10 @@ align="right" width="10%" height="auto"/>
 
 ### NPCs
 
-- _Lusk the Fence_
+- _[Lusk the Fence](./lusk-the-fence.md)_
 
 ## Use this repository
 
-<!--
 Take advantage of [Homebrewery](https://homebrewery.naturalcrit.com/) to
-preview [this adventure as Markdown](./homebrewery-part-1.md), and to save as
+preview [this adventure as Markdown](./homebrewery-ep-1.md), and to save as
 PDF.
--->
