@@ -11,9 +11,27 @@ align="right" width="10%" height="auto"/>
 <i>A D&amp;D setting for solo mini-adventures</i>
 </p>
 
-## Player character
+## Use this repository
+
+Take advantage of [Homebrewery](https://homebrewery.naturalcrit.com/) to
+read adventure episodes or save them as PDF.
+
+## Episode 1
+
+[Homebrewery Markdown](./homebrewery-ep-1.md) for episode 1.
+
+### Player character
 
 - _[Kolchak](https://www.dndbeyond.com/characters/144923969)_ at level 1
+
+### NPCs
+
+- _[Lusk the Fence](./lusk-the-fence.md)_
+
+## Episode 5
+
+### Player character
+
 - _[Kolchak](https://www.dndbeyond.com/characters/144726105)_ at level 5
 
 ### Sidekick
@@ -21,13 +39,3 @@ align="right" width="10%" height="auto"/>
 - _[Bob
   Jones](https://www.dndbeyond.com/monsters/5401884-kolchak-sidekick-bob-jones-level-5)_
   at level 5
-
-### NPCs
-
-- _[Lusk the Fence](./lusk-the-fence.md)_
-
-## Use this repository
-
-Take advantage of [Homebrewery](https://homebrewery.naturalcrit.com/) to
-preview [this adventure as Markdown](./homebrewery-ep-1.md), and to save as
-PDF.
