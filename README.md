@@ -39,3 +39,9 @@ read adventure episodes or save them as PDF.
 - _[Bob
   Jones](https://www.dndbeyond.com/monsters/5401884-kolchak-sidekick-bob-jones-level-5)_
   at level 5
+
+## Some episode
+
+### NPCs
+
+- _[Witch](./witch.md)_ &mdash; https://www.dndbeyond.com/characters/145281538
