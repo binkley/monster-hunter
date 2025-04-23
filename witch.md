@@ -1,6 +1,6 @@
-## The Witch
+## Granny Smithbee &mdash; The Witch
 
-*"One foot in the church, the other in the fen. That’s how she stands."*
+*"One foot in the village, the other in the fen. That’s how she stands."*
 
 See https://www.dndbeyond.com/characters/145281538 for a full NPC sheet.
 
@@ -10,13 +10,11 @@ See https://www.dndbeyond.com/characters/145281538 for a full NPC sheet.
 
 A Forest Gnome Witch who walks the narrow line between blessing and blight.
 She knows the old ways — **how to curse, how to heal**, and how to **stay
-alive** when monsters howl through the wood. Villagers bring her bread and
-salt when they need help. Nobles bring her torches when they forget.
-
+alive** when monsters howl through the wood.
+Villagers bring her bread and salt when they need help.
+Nobles bring her torches when they forget.
 This Witch blends **Druid**, **Warlock**, and **Cleric-flavored** magic
-through clever multiclassing and the *Acolyte* background. Inspired by folk
-traditions and literary witches (especially Pratchett’s headologists), she
-carries no staff — only her shadow, her smile, and spells no one taught her.
+through multiclassing and the *Acolyte* background.
 
 ---
 
