@@ -2,6 +2,8 @@
 
 *"One foot in the church, the other in the fen. That’s how she stands."*
 
+See https://www.dndbeyond.com/characters/145281538 for a full NPC sheet.
+
 ---
 
 ### Summary
@@ -20,14 +22,29 @@ carries no staff — only her shadow, her smile, and spells no one taught her.
 
 ### Build Snapshot
 
-- **Race**: Forest Gnome  
-- **Background**: Acolyte (Bless, Guidance, Thaumaturgy)  
-- **Classes**: Druid 1 / Warlock 2 (Fiend Patron)  
-- **Pact**: Pact of the Tome (when reached)  
+- **Alignment**: Neutral good
+- **Species**: Forest Gnome
+- **Background**: Acolyte (Bless, Guidance, Thaumaturgy)
+- **Classes**: Druid 2 / Warlock 3 (Archfey Patron)
 - **Invocations**:
-  - *Misty Visions* (Silent Image at will)  
-  - *Fiendish Vigor* (False Life at will, self only)  
+  - *Misty Visions* (Silent Image at will)
+  - *Fiendish Vigor* (False Life at will, self only)
   - *Mask of Many Faces* (Disguise Self at will)
+
+---
+
+### Familiar &mdash; Old Mean Tomcat
+
+The cat has one black eye and one yellow eye, but you're never sure which is
+which.
+He is tattered, scruffy, and scarred, but popular with the lady cats.
+
+- Grumbles at everyone except the witch.
+- Mewls when things are going wrong, or senses looming troubles.
+- Disappears for a day or two only to reappear covered in dust and blood that
+  isn’t his.
+- Will sit on spell scrolls unless properly bribed.
+- Enjoys fish, spite, and naps in the center of summoning circles.
 
 ---
 
@@ -38,7 +55,10 @@ carries no staff — only her shadow, her smile, and spells no one taught her.
   fate.
 - **Folk Magic & Lore**: Speak to animals, sway villagers, and scare off
   bandits with reputation alone.
-- **Never Quite the Same Face Twice**.
+- **Nosey**: Your business is her business, and she's not reluctant to speak
+  her mind.
+- **Don't Believe Your Eyes**: Shape-changing and use *Disguise Self*.
+  She might entertain village children &mdash; or hex the toys of the naughty.
 
 ---
 
@@ -50,5 +70,5 @@ carries no staff — only her shadow, her smile, and spells no one taught her.
 
 ---
 
-> *"It’s not trickery if it works. That’s just magic with manners."*  
+> *"It’s not trickery if it works. That’s just magic with manners."*
 > — Granny Honeythorn, probably lying
