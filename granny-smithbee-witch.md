@@ -8,17 +8,18 @@ See https://www.dndbeyond.com/characters/145281538 for a full NPC sheet.
 
 ### Summary
 
-A Forest Gnome witch who walks the narrow line between blessing and blight.
+A Forest Gnome witch who walks the narrow line between blessing and blight,
+and guards her village and inhabitants as personal property.
 She knows the old ways — **how to curse, how to heal**, and how to **stay
 alive** when monsters howl through the wood.
 Villagers bring her bread and salt when they need help.
 Nobles bring her torches when they forget. 
+She is nosey and both respected and feared, and may bestow weal or woe.
 
 This Witch blends **Druid**, **Warlock**, and **Cleric-flavored** magic
 through multiclassing and the *Acolyte* background.
 Inspired by folk traditions and literary witches (especially Pratchett’s
-headologists), she carries no staff — only her shadow, her smile, and spells
-no one taught her.
+headologists), she carries a walking staff, a hat, and hatpins.
 
 ---
 
