@@ -1,11 +1,11 @@
-## NPC: The Appraiser (Name TBD)
+# NPC: The Appraiser (Name TBD)
 
 *"If it hums, glows, or whispers, I catalog it. If it tries to bite, you pay
 extra."*
 
 ---
 
-### Description
+## Description
 
 The proprietor is quiet, meticulous, cautious — and seemingly omnipresent.
 When he speaks, it’s in a cool, measured voice, with hints of amusement and
@@ -23,7 +23,7 @@ When handling your finds, he wears gloves and takes meticulous notes.
 
 ---
 
-### The Shop
+## The Shop
 
 Tucked behind a row of other pawnshops in the Dock Ward, the shop is easy to
 miss without specific instructions.
@@ -42,10 +42,10 @@ your explanation.
 
 ---
 
-### Role in the Campaign
+## Role in the Campaign
 
-- A trusted NPC expert who can cast *Identify* (as ritual) or assess unusual
-  items for a fee or a favor.
+- A trusted NPC expert who can assess items for a fee or favor, and has a
+  network to draw on.
 - Knows rumors, auction prices, black market whispers, and the value of magic
   and cursed goods alike.
 - Keeps notes on everything, but shares only what he’s paid to.
@@ -53,7 +53,7 @@ your explanation.
 
 ---
 
-### Example Name Suggestions
+## Example Name Suggestions
 
 - **Aelric Darn** — Short-tempered but fair. Old family from Luskan.
 - **Quince** — Nobody knows if that’s first or last name.
@@ -62,53 +62,81 @@ your explanation.
 
 ---
 
-### Stat Block (Monster Format)
-
-```markdown
-## The Appraiser
-*Medium humanoid (any race), lawful neutral*
+## Stat block
+*Medium humanoid (Human), neutral*
 
 ___
-- **Armor Class** 13 (leather apron)
-- **Hit Points** 18 (4d8)
+- **Armor Class** 12 (layered coat)
+- **Hit Points** 27 (6d8)
 - **Speed** 30 ft.
 ___
-| STR | DEX | CON | INT | WIS | CHA |
-|:--:|:--:|:--:|:--:|:--:|:--:|
-| 8 (-1) | 12 (+1) | 10 (+0) | 16 (+3) | 14 (+2) | 11 (+0) |
+
+|   STR   |   DEX   |   CON   |   INT   |   WIS   |   CHA   |
+|:-------:|:-------:|:-------:|:-------:|:-------:|:-------:|
+| 10 (+0) | 12 (+1) | 10 (+0) | 16 (+3) | 14 (+2) | 11 (+0) |
+
 ___
 - **Saving Throws** Int +5, Wis +4
-- **Skills** Arcana +5, History +5, Investigation +5, Insight +4
-- **Tools** Calligrapher’s supplies, jeweler’s tools
-- **Senses** passive Perception 12
-- **Languages** Common, Elvish, Draconic, one other
-- **Challenge** 1/2 (100 XP)
+- **Skills** Arcana +5, History +5, Insight +4, Investigation +5,
+  Sleight of Hand +3
+- **Tool Proficiencies** Calligrapher's Supplies, Forgery Kit, Tinker’s Tools,
+  Thieves’ Tools
+- **Senses** passive Insight 13, Investigation 13, Perception 12
+- **Languages** Common, Draconic, Gnomish, Elvish
+- **Challenge** 1/4 (50 XP)
 - **Proficiency Bonus** +2
 
 ___
+
 ### Traits
 
-**Ritualist.** The Appraiser can cast *Identify* and *Comprehend Languages* as
-rituals.
-He prefers *not* to unless well-compensated or intrigued.
+**Careful Examination.**
+When The Appraiser takes 10 minutes to examine an item using appropriate tools,
+he can attempt a DC 15 Intelligence (Arcana, Investigation, or History) check
+to determine a magical property, cultural origin, or forged feature.
+On a success, he uncovers a key detail.
+On a failure, he may consult a contact and provide an answer within 1d4 days.
 
-**Meticulous Records.** Once per day, the Appraiser can instantly recall a
-specific item or transaction from years past, including its properties or
-market value.
+**Meticulous Records.** The Appraiser can consult his records for a specific
+item or transaction from years past, including its properties or possible
+present market value, but will be reluctant unless incentivized.
 
-**Don't Touch That.** As a reaction when a creature attempts to touch a magical
-item in his shop, he can impose disadvantage on the check (Insight, Arcana, or
-otherwise) through sudden intervention and a barked warning.
+**Pawnbroker’s Caution.**
+The Appraiser never triggers cursed or attuned effects when handling a magic
+item, thanks to his extensive cataloging and gloves.
+This functions as advantage on saving throws against item-based magical effects.
+
+**Ritual Casting.**
+He can cast the following spells, requiring no components, but only as rituals,
+and prefers *not* to unless compensated or ingruiged:
+- *Comprehend Languages*
+- *Detect Magic*
+- *Identify*
 
 ___
+
 ### Actions
 
-**Silver Dagger.** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target.
++**Silvered Dagger.** *Melee or Ranged Weapon Attack:* +3 to hit, reach 5 ft.
+or range 20/60 ft., one target.
 *Hit:* 3 (1d4 + 1) piercing damage.
-
+Usually tucked in a sleeve, just in case.
+ 
 **Dust of Truth (Recharge 5–6).** The Appraiser can toss a pinch of silvery
 powder over an item or speaker once per day, briefly revealing lies or false
 magic.
 The affected creature or object must succeed on a DC 13 Charisma saving throw
 or be affected by *Zone of Truth* or *Detect Magic* for 1 minute (Appraiser’s
 choice).
+
+___
+
+### Roleplaying The Appraiser
+
+- Refers to magic items as “assets” and customers as "guests."
+- Never provides services for free.
+  Never bargains.
+  Prices are final — but favors may be negotiated.
+- Has a private ledger with hundreds of handwritten entries.
+  Somehow finds any record within seconds.
+- Always has a lead for a buyer when pressed and not himself.
