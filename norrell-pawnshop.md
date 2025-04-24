@@ -1,4 +1,4 @@
-# NPC: The Appraiser (Name TBD)
+# NPC: Norrell — The Appraiser
 
 *"If it hums, glows, or whispers, I catalog it. If it tries to bite, you pay
 extra."*
@@ -8,8 +8,8 @@ extra."*
 ## Description
 
 The proprietor is quiet, meticulous, cautious — and seemingly omnipresent.
-When he speaks, it’s in a cool, measured voice, with hints of amusement and
-excitement kept under control.
+He speaks in a cool, measured voice, his amusement and excitement carefully
+masked.
 
 His reputation is impeccable, though few nobles would admit to visiting his
 shop without a disguise.

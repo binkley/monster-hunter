@@ -1,4 +1,4 @@
-## Granny Smithbee — The Witch
+## NPC: Granny Smithbee — The Witch
 
 *"One foot in the village, the other in the fen. That’s how she stands."*
 

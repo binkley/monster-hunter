@@ -44,5 +44,6 @@ read adventure episodes or save them as PDF.
 
 ### NPCs
 
+- _[Pawnshop](./norrell-pawnshop.md)_
 - _[Witch](./granny-smithbee-witch.md)_ &mdash;
   https://www.dndbeyond.com/characters/145281538
