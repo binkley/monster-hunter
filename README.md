@@ -44,4 +44,5 @@ read adventure episodes or save them as PDF.
 
 ### NPCs
 
-- _[Witch](./witch.md)_ &mdash; https://www.dndbeyond.com/characters/145281538
+- _[Witch](./granny-smithbee-witch.md)_ &mdash;
+  https://www.dndbeyond.com/characters/145281538
