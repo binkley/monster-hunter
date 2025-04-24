@@ -13,13 +13,13 @@ and guards her village and inhabitants as personal property.
 She knows the old ways — **how to curse, how to heal**, and how to **stay
 alive** when monsters howl through the wood.
 Villagers bring her bread and salt when they need help.
-Nobles bring her torches when they forget. 
-She is nosey and both respected and feared, and may bestow weal or woe.
+Nobles bring her torches when they forget.
+She is nosey, both respected and feared, and may bestow weal or woe.
 
-This Witch blends **Druid**, **Warlock**, and **Cleric-flavored** magic
+This witch blends **Druid**, **Warlock**, and **Cleric-flavored** magic
 through multiclassing and the *Acolyte* background.
 Inspired by folk traditions and literary witches (especially Pratchett’s
-headologists), she carries a walking staff, a hat, and hatpins.
+headologists), she carries a walking staff, a tall hat, and several hatpins.
 
 ---
 
