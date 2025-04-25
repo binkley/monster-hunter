@@ -83,10 +83,10 @@ which. He is tattered, scruffy, and scarred, but popular with the lady cats.
 
 ### Spellcasting Notes
 
-- Her *Bless* is “a black ribbon tied around a babe’s crib.”
-- *False Life* comes as “a brew of mud, moss, and whisper.”
-- *Disguise Self* is “the face they expect.”
-- Her new *Hypnotic Pattern* evokes “dancing candlelight and old lullabies.”
+- *Bless* is "a black ribbon tied around a babe’s crib."
+- *False Life* comes as "a brew of mud, moss, and whisper."
+- *Disguise Self* is "the face they expect."
+- *Hypnotic Pattern* evokes "dancing candlelight and old lullabies."
 
 ---
 
