@@ -84,9 +84,11 @@ which. He is tattered, scruffy, and scarred, but popular with the lady cats.
 ### Spellcasting Notes
 
 - *Bless* is "a black ribbon tied around a babe’s crib."
-- *False Life* comes as "a brew of mud, moss, and whisper."
+- *Blink* is "stepping sideways where the eye cannot follow."
 - *Disguise Self* is "the face they expect."
+- *False Life* is "a brew of mud, moss, and whisper."
 - *Hypnotic Pattern* evokes "dancing candlelight and old lullabies."
+- *Plant Growth* is "a whispered word to the roots that remember her kindness."
 
 ---
 
