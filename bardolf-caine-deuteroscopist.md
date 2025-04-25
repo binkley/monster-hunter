@@ -30,11 +30,11 @@
     or "Doctor" or "Lord").
   - Keeps notes in a leather-bound *Ledger of Quiet Testimonies*.
 
-When employing the Deuteroscopist for his services, sample remarks by him
-might be:
+### Sample interactions
 
-> "The living are dishonest even in their dying.  
-> But the flesh itself — it has no tongue left to lie."
+> "The living are dishonest even in their dying.
+> But the flesh itself — it has no tongue left to lie with when tongue it still
+> has."
 
 > You notice a faint tremor pass through the Deuteroscopist's hand as he
 > lifts the tattered flesh.
@@ -42,7 +42,21 @@ might be:
 > now."
 
 > He chuckles when seeing the corpse you brought him with its throat torn out.
-> "I guess this one won't eat soup again."
+> "I guess this one won't be eating soup again.
+> More's the pity, that."
+
+> On a successful postmortem, he might say,
+> "The lungs... yes. They still whisper the name of what broke them."
+
+> At twilight, Bardolf sometimes lingers outside his stone-walled workplace,
+> leaning against the lintel, staring across toward the City of the Dead.
+>
+> "The wind runs backward there some nights," he murmurs.
+> "Whispers and smells and memories — not all of them yours.
+> Much I glean from those remains, but I fear them."
+>
+> He snuffs out his lantern early those nights, double-bars the door, and
+> refuses visitors until dawn.
 
 ---
 
