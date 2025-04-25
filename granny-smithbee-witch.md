@@ -16,10 +16,13 @@ Villagers bring her bread and salt when they need help.
 Nobles bring her torches when they forget.
 She is nosey, both respected and feared, and may bestow weal or woe.
 
-This witch blends **Druid**, **Warlock**, and **Cleric-flavored** magic
+This witch blends **Cleric**, **Druid**, and **Warlock-flavored** magic
 through multiclassing and the *Acolyte* background.
-Inspired by folk traditions and literary witches (especially Pratchett’s
-headologists), she carries a walking staff, a tall hat, and several hatpins.
+Inspired by folk traditions and literary witches (especially Pratchett), she
+carries a walking staff, wears a tall hat with hazardous hatpins, and is a
+mistress of "headology".
+She prefers subtle or unsubtle influence over raw power, but will use nature's
+and magic's forces when provoked.
 
 ---
 
