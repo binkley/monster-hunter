@@ -44,7 +44,9 @@ read adventure episodes or save them as PDF.
 
 ### NPCs
 
+- _[Coral Bloom (TBD)](./coral-bloom.md)_
 - _[Deuterscopist](./bardolf-caine-deuteroscopist.md)_
 - _[Pawnshop](./norrell-pawnshop.md)_
+- _[Skald-warrior](./green-shillelagh.md)_
 - _[Witch](./granny-smithbee-witch.md)_ &mdash;
   https://www.dndbeyond.com/characters/145281538
