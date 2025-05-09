@@ -42,7 +42,7 @@ read adventure episodes or save them as PDF.
 
 ## Some episode
 
-### NPCs
+## NPCs
 
 - _[Coral Bloom (TBD)](./coral-bloom.md)_
 - _[Deuterscopist](./bardolf-caine-deuteroscopist.md)_
@@ -50,3 +50,7 @@ read adventure episodes or save them as PDF.
 - _[Skald-warrior](./green-shillelagh.md)_
 - _[Witch](./granny-smithbee-witch.md)_ &mdash;
   https://www.dndbeyond.com/characters/145281538
+
+## Items
+
+- _[Field Notes, Collected](./field-notes-collected.md)_
